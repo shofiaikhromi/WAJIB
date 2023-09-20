@@ -1,0 +1,2 @@
+# WAJIB
+BELAJAR
