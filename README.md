@@ -1,4 +1,5 @@
 # WAJIB
 BELAJAR
 python
-github
+github/git
+kaggle
