@@ -1,2 +1,4 @@
 # WAJIB
 BELAJAR
+python
+github
